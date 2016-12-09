@@ -1,0 +1,5 @@
+Command: venv pyi-env-name
+
+http://www.pajamaprogrammer.com/2015/11/convert-python-35-script-py-to-windows.html
+
+https://pyinstaller.readthedocs.io/en/stable/usage.html
